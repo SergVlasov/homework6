@@ -11,4 +11,4 @@
 // значения b1, k1, b2 и k2 задаются пользователем.
 // b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5)
 
-[Code] (https://github.com/SergVlasov/homework6/blob/main/task002/Program.cs)
+[Code](https://github.com/SergVlasov/homework6/blob/main/task002/Program.cs)
